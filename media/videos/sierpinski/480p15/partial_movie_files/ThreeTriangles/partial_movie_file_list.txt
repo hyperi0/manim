@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/ben/code/manim/media/videos/sierpinski/480p15/partial_movie_files/ThreeTriangles/1185818338_4038617319_223132457.mp4'
+file 'file:/home/ben/code/manim/media/videos/sierpinski/480p15/partial_movie_files/ThreeTriangles/624642324_1959358871_943697348.mp4'
+file 'file:/home/ben/code/manim/media/videos/sierpinski/480p15/partial_movie_files/ThreeTriangles/624642324_4160931346_2055754456.mp4'
